@@ -84,7 +84,7 @@ body {
 
 .popup-block {
     box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
-    transform: translateY(-150px);
+    transform: translateY(-120px);
     background: #ececec;
     max-width: 300px;
     width: 96%;
