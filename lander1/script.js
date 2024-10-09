@@ -1,8 +1,8 @@
 // link for offer
-const offerURL = "https://afflift.rocks/r/go";
+const offerURL = "https://cnboshi.xyz/click";
 
 // link for back button
-const backURL = "https://afflift.rocks/r/go";
+const backURL = "https://cnboshi.xyz/click";
 
 // CTA button listener 
 window.addEventListener("DOMContentLoaded", () => {
