@@ -12,9 +12,9 @@ var langs = {
     txt2: "You will see nude photos. Please be discreet.",
     txt4: "Many of these women are desperate single moms and cheating wives looking for some fun. They could be your neighbors or someone you know. Do you agree to keep the identity of these women a secret?",
     txt6: 'These women have asked us to not allow men that are seeking a "relationship". They only desire quick sex. Not dating. Do you agree to this request?',
-    txt8: "Are you at least 25 years old? The women have requested that we not let those younger than 25 contact them because of past rude behavior by younger men.",
+    txt8: "Are you at least 30 years old? The women have requested that we not let those younger than 30 contact them because of past rude behavior by younger men.",
     txt10:
-      "Because you will see explicit images, we need to know that you are over 25.",
+      "Because you will see explicit images, we need to know that you are over 30.",
     txt12: "Please enter your username",
     txt14: "Please enter your e-mail",
     txt16: "Please enter your password",
