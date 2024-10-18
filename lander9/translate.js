@@ -635,9 +635,9 @@ var langs = {
     txt2: "Sie werden Nacktfotos sehen. Bitte seien Sie diskret.",
     txt4: "Viele dieser Frauen sind verzweifelte alleinerziehende Mütter und verheiratete Frauen, die auf der Suche nach etwas Spaß sind. Es könnte Ihre Nachbarin oder jemand sein, den Sie kennen. Sind Sie damit einverstanden, die Identität dieser Frauen geheim zu halten?",
     txt6: 'Diese Frauen haben uns gebeten, keine Männer zuzulassen, die auf der Suche nach einer "Beziehung" sind. Sie wünschen nur schnellen Sex. Keine Verabredungen. Stimmen Sie dieser Bitte zu?',
-    txt8: "Sind Sie mindestens 25 Jahre alt? Die Frauen haben darum gebeten, dass wir nicht zulassen, dass sich Personen unter 25 Jahren wegen unhöflichen Verhaltens jüngerer Männer mit ihnen in Verbindung setzen.",
+    txt8: "Sind Sie mindestens 30 Jahre alt? Die Frauen haben darum gebeten, dass wir nicht zulassen, dass sich Personen unter 30 Jahren wegen unhöflichen Verhaltens jüngerer Männer mit ihnen in Verbindung setzen.",
     txt10:
-      "Da Sie explizite Bilder sehen, müssen wir wissen, dass Sie über 25 Jahre alt sind.",
+      "Da Sie explizite Bilder sehen, müssen wir wissen, dass Sie über 30 Jahre alt sind.",
     txt12: "Bitte geben Sie Ihren Benutzernamen ein.",
     txt14: "Bitte geben Sie Ihre E-Mail-Adresse ein.",
     txt16: "Bitte stellen Sie ein Passwort zur Verfügung.",
